@@ -73,6 +73,8 @@ body{
     left: 40%;
     background-color: grey;
     border-radius: 20px;
+    display: flex;
+    justify-content:center;
 }
 .card{
     display: flex;
